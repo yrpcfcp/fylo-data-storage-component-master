@@ -185,7 +185,7 @@ html{
 
 
    /* ------------------------MEDIA QUERIES----------------------- */
-   @media screen and (max-width: 375px){
+   @media screen and (max-width: 768px){
 
    .article-container{
     background-color: hsl(228, 56%, 26%);
